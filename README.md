@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergioAqua
+- 👋 Hi, I’m @SergioAquas (aka Scott Watters)
 - 👀 I’m interested in ... becoming a great Development Manager
 - 🌱 I’m currently learning ... just about everything, mostly version control right now
 - 💞️ I’m looking to collaborate on ... best practices for building an SDLC Workflow
